@@ -3,6 +3,7 @@ Zomato Data Analysis Project
 This project aims to analyze Zomato restaurant data to gain insights into various aspects such as restaurant distribution, opening trends, average ratings, pricing, and service offerings.
 
 Table of Contents
+
 Country Map Table
 Calendar Table
 Restaurant Distribution by City and Country
