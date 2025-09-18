@@ -12,6 +12,8 @@ Average Price Bucket Analysis
 Percentage of Restaurants with Table Booking
 Percentage of Restaurants with Online Delivery
 Charts
+
+
 Country Map Table
 This table provides a comprehensive overview of restaurant distribution across different countries.
 
@@ -37,7 +39,9 @@ Percentage of Restaurants with Online Delivery
 Understanding the prevalence of online delivery services among restaurants is crucial in today's digital age.
 
 Charts
+
 Various charts are developed to visualize data related to cuisines, cities, and ratings, providing intuitive insights for stakeholders to understand key trends and patterns.
 
 Conclusion
+
 This project offers a comprehensive analysis of Zomato restaurant data, providing valuable insights for decision-making in the food industry. By exploring restaurant distribution, opening trends, ratings, pricing, and service offerings, the project equips stakeholders with actionable information to optimize strategies and enhance customer experiences.
